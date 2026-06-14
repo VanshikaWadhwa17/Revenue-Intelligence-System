@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+psycopg2-binary
+openpyxl
+scikit-learn
+xgboost
+prophet
+matplotlib
+streamlit
