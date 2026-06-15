@@ -6,9 +6,9 @@ Built using **Python, PostgreSQL, Machine Learning, and Streamlit**, this projec
 
 ---
 
-# 🚀 Key Features
+#  Key Features
 
-## 💰 Revenue Engine
+##  Revenue Engine
 
 * Monthly Recurring Revenue (MRR)
 * Average Revenue Per User (ARPU)
@@ -17,7 +17,7 @@ Built using **Python, PostgreSQL, Machine Learning, and Streamlit**, this projec
 
 ---
 
-## ⚠️ Revenue Risk Engine
+##  Revenue Risk Engine
 
 * Churn probability-based revenue loss estimation
 * Expected monthly revenue at risk
@@ -26,7 +26,7 @@ Built using **Python, PostgreSQL, Machine Learning, and Streamlit**, this projec
 
 ---
 
-## 📊 Cohort Analytics
+##  Cohort Analytics
 
 * Customer segmentation by tenure
 * Cohort-based churn analysis
@@ -34,7 +34,7 @@ Built using **Python, PostgreSQL, Machine Learning, and Streamlit**, this projec
 
 ---
 
-## 📈 Revenue Forecasting Engine
+##  Revenue Forecasting Engine
 
 * 6-month forward revenue projection
 * Churn + expansion-based simulation model
@@ -42,7 +42,7 @@ Built using **Python, PostgreSQL, Machine Learning, and Streamlit**, this projec
 
 ---
 
-## 🎛️ Scenario Simulator
+##  Scenario Simulator
 
 * What-if analysis for business planning:
 
@@ -52,7 +52,7 @@ Built using **Python, PostgreSQL, Machine Learning, and Streamlit**, this projec
 
 ---
 
-## 🧠 Customer Health Scoring System
+##  Customer Health Scoring System
 
 Unified scoring model combining:
 
@@ -69,7 +69,7 @@ Outputs:
 
 ---
 
-## 📊 Interactive Dashboard (Streamlit)
+##  Interactive Dashboard (Streamlit)
 
 * Executive KPI overview
 * Risk segmentation
@@ -79,7 +79,7 @@ Outputs:
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```
 Excel Dataset (Telco Customer Data)
@@ -97,7 +97,7 @@ Streamlit Dashboard (Executive Layer)
 
 ---
 
-# 🧠 Tech Stack
+#  Tech Stack
 
 ### Core
 
